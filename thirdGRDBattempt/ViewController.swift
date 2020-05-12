@@ -4,6 +4,7 @@
 //
 //  Created by Tamara Snyder on 1/3/20.
 //  Copyright © 2020 Tamara Snyder. All rights reserved.
+//  a lot of this from https://www.raywenderlich.com/830-macos-nstableview-tutorial
 //
 
 import Cocoa
